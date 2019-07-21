@@ -3,9 +3,7 @@
 This repository contains materials for the tutorial "Statistics and Biomechanics", held on 31 July 2019 at [XXVII Congress of the International Society of Biomechanics](https://isb2019.com) in Calgary.
 
 
-<img src="https://upload.wikimedia.org/wikipedia/en/6/6c/Toonie_-_back.png" alt="Heads" width="120"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/The_International_Society_of_Biomechanics_logo.png" alt="ISB" width="120"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/c/cc/Toonie.2012.design.reverse.png" alt="Heads" width="120"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/6/6c/Toonie_-_back.png" alt="Heads" width="120"/><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/The_International_Society_of_Biomechanics_logo.png" alt="ISB" width="120"/><img src="https://upload.wikimedia.org/wikipedia/en/c/cc/Toonie.2012.design.reverse.png" alt="Heads" width="120"/>
 
 
 * ISB image: Copyright [International Society of Biomechanics](https://isbweb.org). Linked from [Wikipedia](https://en.wikipedia.org/wiki/File:The_International_Society_of_Biomechanics_logo.png).
