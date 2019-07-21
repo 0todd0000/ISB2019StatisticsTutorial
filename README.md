@@ -6,8 +6,8 @@ This repository contains materials for the tutorial "Statistics and Biomechanics
 <img src="https://upload.wikimedia.org/wikipedia/en/6/6c/Toonie_-_back.png" alt="Heads" width="120"/><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/The_International_Society_of_Biomechanics_logo.png" alt="ISB" width="120"/><img src="https://upload.wikimedia.org/wikipedia/en/c/cc/Toonie.2012.design.reverse.png" alt="Heads" width="120"/>
 
 
-* ISB image: Copyright [International Society of Biomechanics](https://isbweb.org). Linked from [Wikipedia](https://en.wikipedia.org/wiki/File:The_International_Society_of_Biomechanics_logo.png).
-* Coin images: Copyright [Royal Canadian Mint](https://www.mint.ca/). Linked from Wikipedia ([heads](https://en.wikipedia.org/wiki/File:Toonie_-_back.png) and [tails](https://en.wikipedia.org/wiki/File:Toonie.2012.design.reverse.png)). Links are provided for educational purposes (to illustrate coin flipping probability) and for promoting Canada to an international congress audience. Consult the [Royal Canadian Mint's Intellectual Property Guidelines](https://www.mint.ca/store/mint/about-the-mint/intellectual-property-1800010#.XTP23S2B3UI) for details regarding fair use.
+* ISB image: &copy; [International Society of Biomechanics](https://isbweb.org). Linked from [Wikipedia](https://en.wikipedia.org/wiki/File:The_International_Society_of_Biomechanics_logo.png).
+* Coin images: &copy;  [Royal Canadian Mint](https://www.mint.ca/). Linked from Wikipedia ([heads](https://en.wikipedia.org/wiki/File:Toonie_-_back.png) and [tails](https://en.wikipedia.org/wiki/File:Toonie.2012.design.reverse.png)). Links are provided for educational purposes (to illustrate coin flipping probability) and for promoting Canada to an international congress audience. Consult the [Royal Canadian Mint's Intellectual Property Guidelines](https://www.mint.ca/store/mint/about-the-mint/intellectual-property-1800010#.XTP23S2B3UI) for details regarding fair use.
 
 
 
