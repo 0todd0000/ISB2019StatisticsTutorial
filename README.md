@@ -25,3 +25,6 @@ This repository contains materials for the tutorial "Statistics and Biomechanics
     * Bring questions! There will be two question periods during the tutorial.
 
 
+### Rolling updates!
+
+This repository may be updated both prior to and following the tutorial date. Updates and changes can be tracked on GitHub, and applications like [GitHub Desktop](https://desktop.github.com) can help you keep up-to-date.
